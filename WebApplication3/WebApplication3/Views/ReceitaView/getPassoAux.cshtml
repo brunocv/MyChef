@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WebApplication3.Models.Passo>
+    @{
+        ViewData["Title"] = "getPasso";
+        var counter = 1;
+        var x = Model.First().Numero;
+        var y = Model.First().TempoEstimado;
+        var recid = Model.First().Receitaid;
+        DateTime inicio = DateTime.Now;
+        ViewBag.oofy = 60;
+    }
+
+    <script language="javascript">
+    // Set the date we're counting down to
+    var countDownDate = new Date(new Date().getTime() + @y * 60000).getTime();
+
+    // Update the count down every 1 second
+    var xxx = setInterval(function () {
+
+        // Get today's date and time
+        var now = new Date().getTime();
+
+        // Find the distance between now and the count down date
+        var distance = countDownDate - now;
+
+        // Time calculations for days, hours, minutes and seconds
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // Output the result in an element with id="demo"
+        document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+            + minutes + "m " + seconds + "s ";
+
+        // If the count down is over, write some text
+        if (distance < 0) {
+            clearInterval(xxx);
+            document.getElementById("demo").innerHTML = "EXPIRED";
+        }
+    }, 1000);
+    </script>
+
+    <h1>Step @x</h1>
+    <p align="center" id="demo">0d 0h @y m 0s</p>
+
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Descricao</td>
+            @{counter = @user.Numero + 1;}
+        </tr>
+    }
+    <p align="right"><a asp-controller="ReceitaView" asp-action="getPassoAux" asp-route-id="@recid" asp-route-num="@counter" asp-route-inicio="@inicio">Next</a></p>

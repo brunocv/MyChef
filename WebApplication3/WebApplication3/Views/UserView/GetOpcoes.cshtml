@@ -1,0 +1,17 @@
+ @model IEnumerable<WebApplication3.Models.Utilizador>
+@{
+    ViewData["Title"] = "Welcome page";
+}
+
+<h1>Welcome to MyChef</h1>
+
+<div class="col-xs-12" style="height:50px;"></div>
+<p><a asp-controller="UserView" asp-action="ViewProfile" asp-route-id=Model.Id>View Profile</a></p>
+<p><a asp-controller="UserView" asp-action="EditProfile"> Edit Profile</a></p>
+<p><a asp-controller="UserView" asp-action="Sugestion"> Suggestion</a></p>
+<p><a asp-controller="UserView" asp-action="getRecipes"> Recipes</a></p>
+<p><a asp-controller="UserView" asp-action="atualizaDespensa" asp-route-id=Model.Id> Storeroom</a></p>
+<p><a asp-controller="UserView" asp-action="WeeklyMenu"> Weekly Menu</a></p>
+<p><a asp-controller="UserView" asp-action="ViewMenus"> My menus</a></p>
+<p><a asp-controller="UserView" asp-action="Historical"> Preparation History</a></p>
+<p align="right" style="margin-top: 130px"><a asp-controller="UserView" asp-action="AboutUs"> About MyChef</a></p>

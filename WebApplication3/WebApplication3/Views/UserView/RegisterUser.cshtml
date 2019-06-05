@@ -1,0 +1,48 @@
+﻿@model WebApplication3.Models.Utilizador
+@{
+    ViewData["Title"] = "RegisterUser";
+}
+<h4>Register</h4>
+<p><b>Diets:</b> 1 - Vegan, 2 - Vegetarian, 3 - Lactose-free, 4 - Other</p>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @if (TempData["Success"] != null)
+        {
+            <p class="alert alert-success">@TempData["Success"]  <a asp-action="UserLogin">Click here to login</a></p>
+        }
+        @if (TempData["Fail"] != null)
+        {
+            <p class="alert alert-danger">@TempData["Fail"]</p>
+        }
+        <form asp-action="RegisterUser">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label">Name</label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RegimeAlimentarid" class="control-label">Diet</label>
+                <input asp-for="RegimeAlimentarid" class="form-control" />
+                <span asp-validation-for="RegimeAlimentarid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Register" class="btn btn-default btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="UserLogin">Back to User Login</a>
+</div>

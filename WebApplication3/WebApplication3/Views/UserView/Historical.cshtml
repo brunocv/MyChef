@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebApplication3.Models.Hist_AUX>
+@{
+    ViewData["Title"] = "ViewProfile";
+}
+
+<h1>Preparation History</h1>
+<p> Here you can see some aspects related to the recipes you've prepared with the help of MyChef.</p>
+<hr>
+
+<div class="text-center" style="margin-top: 100px" align="center">
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Recipe</th>
+            <th scope="col">Step</th>
+            <th scope="col">Date</th>
+            <th scope="col">Expected Time (Minutes)</th>
+            <th scope="col">Real Time (Minutes)</th>
+            <th scope="col">Dificulties</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+        <tr>
+            <td>@user.Receita</td>
+            <td>@user.Passo</td>
+            <td>@user.Data</td>
+            <td>@user.TempoEstimado</td>
+            <td>@user.TempoReal</td>
+            <td>@user.Dificuldade</td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<p align="right" style="margin-top: 150px"><a asp-controller="UserView" asp-action="getOpcoes">Back</a></p>

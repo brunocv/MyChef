@@ -1,0 +1,16 @@
+﻿@model List<WebApplication3.Models.MenuReceita>
+@{
+    ViewData["Title"] = "Specifications";
+}
+
+<div class="text-center" style="margin-top: 100px" align="center">
+    <h1><p>Description for menu selected</p></h1>
+
+    @foreach (var user in Model)
+    {
+        <p><b>Recipe description:  </b>@user.Receita.Descricao</p>
+        <p><b>Day of preparation:  </b>@user.Dia</p>
+    }
+
+</div>
+<p align="right" style="margin-top: 150px"><a asp-controller="UserView" asp-action="ViewMenus">Back</a></p>

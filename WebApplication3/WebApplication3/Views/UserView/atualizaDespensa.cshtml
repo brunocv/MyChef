@@ -1,0 +1,50 @@
+﻿@model IEnumerable<WebApplication3.Models.IngQtd>
+@{
+    ViewData["Title"] = "atualizaDespensa";
+}
+
+@using WebApplication3.Models;
+@using WebApplication3.Controllers;
+@using System;
+@using System.Collections.Generic;
+@using System.Diagnostics;
+
+<h1>Storeroom</h1>
+<p> This section allows you to update the ingredients in your storeroom. This way you know what recipes you can prepare right away.</p>
+@if (ViewBag.State == -20)
+{
+    <p><b><font color="green">Ingredients added to storeroom</font></b></p>
+}
+@if (ViewBag.State == -10)
+{
+    <p><b><font color="red">Not a number</font></b></p>
+}
+<div class="col-xs-12" style="height:50px;"></div>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Current Amount</th>
+            <th scope="col">Quantity to Add</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            UserViewController cc = new UserViewController();
+            int qq = cc.getIngQuantidade(user.Id, User.Identity.Name);
+
+            @using (Html.BeginForm("Add", "UserView", new { id = user.Id }, FormMethod.Post))
+            {
+                <tr>
+                    <td>@user.Nome</td>
+                    <td>@qq</td>
+                    <td><input type="text" name="quantidade" id="quantidade" placeholder="0" /></td>
+                    <td><input type="submit" value="add" /></td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<p align="right"><a asp-controller="UserView" asp-action="GetOpcoes">Back</a></p>

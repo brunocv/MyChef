@@ -1,0 +1,18 @@
+﻿@model IEnumerable<WebApplication3.Models.Menu>
+@{
+    ViewData["Title"] = "ViewMenus";
+}
+
+<div class="text-center" style="margin-top: 100px" align="center">
+    <h1><p>My menus</p></h1>
+
+    @foreach (var user in Model)
+    {
+        <p><b>Id do menu: </b>  @user.Id</p>
+        <p><b>Inicio:</b>  @user.Inicio</p>
+        <p><b>Fim:</b>  @user.Fim</p>
+        <p><a asp-controller="UserView" asp-action="specs" asp-route-id="@user.Id">Specifications</a></p>
+    }
+
+</div>
+<p align="right" style="margin-top: 150px"><a asp-controller="UserView" asp-action="getOpcoes">Back</a></p>

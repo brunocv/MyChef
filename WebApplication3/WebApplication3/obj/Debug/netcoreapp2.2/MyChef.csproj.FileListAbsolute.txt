@@ -1,0 +1,259 @@
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.deps.json
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.json
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.dev.json
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.dll
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csprojAssemblyReference.cache
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CoreCompileInputs.cache
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cache
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfoInputs.cache
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfo.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.input.cache
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.output.cache
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorCoreGenerate.cache
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cache
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CopyComplete
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\RegisterUser.g.cshtml.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\UserLogin.g.cshtml.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetRecipes.g.cshtml.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Preview.g.cshtml.cs
+C:\Users\jonyp\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPasso.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.deps.json
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.json
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.dev.json
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.dll
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csprojAssemblyReference.cache
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cache
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfoInputs.cache
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfo.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.input.cache
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.output.cache
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorCoreGenerate.cache
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPasso.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Preview.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetRecipes.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\RegisterUser.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\UserLogin.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cache
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CopyComplete
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Favorite.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.deps.json
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.json
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.dev.json
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.dll
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csprojAssemblyReference.cache
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CoreCompileInputs.cache
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cache
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfoInputs.cache
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfo.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.input.cache
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.output.cache
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorCoreGenerate.cache
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Favorite.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPasso.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Preview.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetRecipes.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\RegisterUser.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\UserLogin.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cache
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.deps.json
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.json
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.dll
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.input.cache
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.output.cache
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorCoreGenerate.cache
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Favorite.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPasso.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Preview.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetRecipes.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\RegisterUser.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\UserLogin.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetOpcoes.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewProfile.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Sugestion.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\EditProfile.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\EditProfile.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetOpcoes.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Sugestion.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewProfile.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\EditProfile.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetOpcoes.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Sugestion.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewProfile.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\atualizaDespensa.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\atualizaDespensa.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\AboutUs.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\WeeklyMenu.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Dificulties.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Historical.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.deps.json
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.json
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.dev.json
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.dll
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csprojAssemblyReference.cache
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CoreCompileInputs.cache
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cache
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfoInputs.cache
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfo.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cache
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CopyComplete
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.input.cache
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.output.cache
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorCoreGenerate.cache
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Dificulties.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Favorite.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPasso.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Preview.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\AboutUs.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\atualizaDespensa.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\EditProfile.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetOpcoes.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetRecipes.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Historical.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\RegisterUser.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Sugestion.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\UserLogin.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewProfile.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\WeeklyMenu.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPassoAux.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewMenus.g.cshtml.cs
+C:\Users\jonyp\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\specs.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Dificulties.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPassoAux.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\AboutUs.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Historical.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\specs.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewMenus.g.cshtml.cs
+C:\Users\Pedro Gonçalves\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\WeeklyMenu.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Dificulties.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPassoAux.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\AboutUs.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\atualizaDespensa.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Historical.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\specs.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewMenus.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\WeeklyMenu.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.deps.json
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.json
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.runtimeconfig.dev.json
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.dll
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csprojAssemblyReference.cache
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CoreCompileInputs.cache
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cache
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorAssemblyInfo.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfoInputs.cache
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.AssemblyInfo.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.input.cache
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.TagHelpers.output.cache
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorCoreGenerate.cache
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Dificulties.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Favorite.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPasso.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPassoAux.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\Preview.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\AboutUs.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\atualizaDespensa.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\EditProfile.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetOpcoes.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\GetRecipes.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Historical.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\RegisterUser.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\specs.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\Sugestion.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\UserLogin.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewMenus.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewProfile.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\WeeklyMenu.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cache
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.RazorTargetAssemblyInfo.cs
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.Views.pdb
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.dll
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.pdb
+C:\Users\jonyp\Downloads\WebApplication3(3)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\MyChef.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\ReceitaView\getPassoAux.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\specs.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ViewMenus.g.cshtml.cs
+C:\Users\rodol\Desktop\Trabalho Li4\LI4_ATUAL\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ListaComp.g.cshtml.cs
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\UserView\ListaComp.g.cshtml.cs

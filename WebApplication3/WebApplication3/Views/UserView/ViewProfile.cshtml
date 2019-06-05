@@ -1,0 +1,17 @@
+﻿@model IEnumerable<WebApplication3.Models.Utilizador>
+@{
+    ViewData["Title"] = "ViewProfile";
+}
+
+<div class="text-center" style="margin-top: 100px" align="center">
+    <h1><p>Profile:</p></h1>
+
+    @foreach (var user in Model)
+    {
+        <p><b>Name:</b>  @user.Nome</p>
+        <p><b>Email:</b>  @user.Email</p>
+        <p><b>Diet:</b>  @user.RegimeAlimentar.Nome</p>
+    }
+
+</div>
+<p align="right" style="margin-top: 150px"><a asp-controller="UserView" asp-action="getOpcoes">Back</a></p>

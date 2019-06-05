@@ -1,0 +1,73 @@
+﻿@model WebApplication3.Models.Receita
+@{
+    ViewData["Title"] = "Sugestion";
+}
+
+<h1>Dificulties</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+
+        <fieldset>
+            <p> Have you had any problems in the preparation?</p>
+            <table class="table">
+                <tr>
+                    <td>Step</td>
+                    <td>Dificulty</td>
+                </tr>
+                @using (Html.BeginForm("setDificulties", "ReceitaView", new { recId = Model.Id, passo = 1 }, FormMethod.Post))
+                {
+                    <tr>
+                        <td>1</td>
+                        <td> <input size="50" type="text" name="descricao" placeholder="------" /></td>
+                        <td><input type="submit" value="add" /></td>
+                    </tr>
+                }
+                @using (Html.BeginForm("setDificulties", "ReceitaView", new { recId = Model.Id, passo = 2 }, FormMethod.Post))
+                {
+                    <tr>
+                        <td>2</td>
+                        <td> <input size="50" type="text" name="descricao" placeholder="------" /></td>
+                        <td><input type="submit" value="add" /></td>
+                    </tr>
+                }
+                @using (Html.BeginForm("setDificulties", "ReceitaView", new { recId = Model.Id, passo = 3 }, FormMethod.Post))
+                {
+                    <tr>
+                        <td>3</td>
+                        <td> <input size="50" type="text" name="descricao" placeholder="------" /></td>
+                        <td><input type="submit" value="add" /></td>
+                    </tr>
+                }
+                @using (Html.BeginForm("setDificulties", "ReceitaView", new { recId = Model.Id, passo = 4 }, FormMethod.Post))
+                {
+                    <tr>
+                        <td>4</td>
+                        <td> <input size="50" type="text" name="descricao" placeholder="------" /></td>
+                        <td><input type="submit" value="add" /></td>
+                    </tr>
+                }
+                @using (Html.BeginForm("setDificulties", "ReceitaView", new { recId = Model.Id, passo = 5 }, FormMethod.Post))
+                {
+                    <tr>
+                        <td>5</td>
+                        <td> <input size="50" type="text" name="descricao" placeholder="------" /></td>
+                        <td><input type="submit" value="add" /></td>
+                    </tr>
+                }
+                @using (Html.BeginForm("setDificulties", "ReceitaView", new { recId = Model.Id, passo = 6 }, FormMethod.Post))
+                {
+                    <tr>
+                        <td>6</td>
+                        <td> <input size="50" type="text" name="descricao" placeholder="------" /></td>
+                        <td><input type="submit" value="add" /></td>
+                    </tr>
+                }
+            </table>
+        </fieldset>
+
+    </div>
+    
+</div>
+<p align="right"><a asp-controller="UserView" asp-action="GetOpcoes">Exit</a></p>

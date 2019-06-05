@@ -1,0 +1,30 @@
+﻿@model WebApplication3.Models.Categoria
+@{
+    ViewData["Title"] = "Sugestion";
+}
+
+<h1>Suggestion</h1>
+<p> Given a category, MyChef will suggest a recipe for you to prepare.</p>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        @if (TempData["Fail"] != null)
+        {
+            <p class="alert alert-danger">@TempData["Fail"]</p>
+        }
+        @using (Html.BeginForm("Sugestionn", "UserView", new { descricao = ViewBag.descricao }, FormMethod.Post))
+        {
+            @Html.ValidationSummary(true)
+            <fieldset>
+                <p> Dessert's Category  <p />
+                <p> <input type="text" name="descricao" value=@ViewBag.descricao required /> <p />
+            </fieldset>
+            <p> <input type="submit" value="Get sugestion" class="btn btn-default btn-primary" /> </p>
+            <div>
+                <a asp-action="getOpcoes">Back to User Menu</a>
+            </div>
+        }
+    </div>
+</div>
+</div>

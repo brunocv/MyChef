@@ -1,0 +1,35 @@
+﻿@model WebApplication3.Models.Utilizador
+@{
+    ViewData["Title"] = "EditProfile";
+}
+
+<h1>Profile Edition</h1>
+<p><b>Diets:</b> 1 - Vegan, 2 - Vegetarian, 3 - Lactose-free, 4 - Other</p>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        @if (TempData["Success"] != null)
+        {
+            <p class="alert alert-success">@TempData["Success"]</p>
+        }
+        @if (TempData["Fail"] != null)
+        {
+            <p class="alert alert-danger">@TempData["Fail"]</p>
+        }
+
+        @using (Html.BeginForm("EditarPerfil", "UserView", new { nome = ViewBag.nome, password = ViewBag.password, regimeAlimentar = ViewBag.regimeAlimentar }, FormMethod.Post))
+        {
+            @Html.ValidationSummary(true)
+            <fieldset>
+                <b>Name</b> <p><input type="text" name="nome" value=@ViewBag.nome /></p>
+                <span><b>Password</b> <p><input type="password" name="password" value=@ViewBag.password class="ux-password-show-hide" /></p></span>
+                <b>RegimeAlimentar</b> <p><input type="text" name="regimeAlimentar" value=@ViewBag.regimeAlimentar /></p>
+            </fieldset>
+            <p> <input type="submit" value="Submit changes" class="btn btn-default btn-primary" /> </p>
+            <div>
+                <a asp-action="getOpcoes">Back to User Menu</a>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,28 @@
+﻿@model IEnumerable<WebApplication3.Models.IngQtd>
+@{
+    ViewData["Title"] = "ListaCompras";
+}
+
+<h1>Shopping List</h1>
+<div class="col-xs-12" style="height:50px;"></div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Quantity needed</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Nome</td>
+                <td>@user.Quantidade</td>
+            </tr>
+            
+        }
+    </tbody>
+</table>
+
+<p align="right"><a asp-controller="UserView" asp-action="GetOpcoes">Go to begining</a></p>

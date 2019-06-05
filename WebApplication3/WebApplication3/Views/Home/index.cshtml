@@ -1,0 +1,9 @@
+﻿<div class="text-center" style="margin-top: 100px">
+    <h1 class="display-4"><b>MyChef</b></h1>
+    <p> <a asp-controller="UserView" asp-action="RegisterUser">Register</a></p>
+    <p><a asp-controller="UserView" asp-action="UserLogin">Login</a></p>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <p><a asp-controller="UserView" asp-action="GetOpcoes">User Area</a></p>
+    }
+</div>

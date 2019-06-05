@@ -1,0 +1,95 @@
+﻿@model IEnumerable<WebApplication3.Models.Receita>
+@{
+    ViewData["Title"] = "Weekly Menu";
+}
+
+<h1>Weekly Menu</h1>
+<hr />
+
+<div style="margin-top: 60px" align="center">
+    <h2><p>Recipes Available</p></h2>
+
+    @foreach (var user in Model)
+    {
+        <p style="margin-top:40px"><h4>@user.Nome</h4></p>
+        <b>Dificulty: </b>@user.Dificuldade
+        <i class="fa fa-dot-circle-o title-icon" aria-hidden="true"></i>
+        <b>Nutrition: </b>@user.Nutricao
+        <i class="fa fa-dot-circle-o title-icon" aria-hidden="true"></i>
+        <b>Description: </b>@user.Categoria.Descricao
+    }
+</div>
+
+<section class="section" style="margin-top: 60px">
+    <h2><p class="text-center">Define your menu</p></h2>
+    <div class="container">
+        @if (TempData["Success"] != null)
+        {
+            <p class="alert alert-success">@TempData["Success"]</p>
+        }
+        @if (TempData["Fail"] != null)
+        {
+            <p class="alert alert-danger">@TempData["Fail"]</p>
+        }
+        @using (Html.BeginForm("WeeMenu", "UserView", new
+        {
+            initialDate = ViewBag.initialDate,
+            finalDate = ViewBag.finalDate,
+            segunda = ViewBag.segunda,
+            terca = ViewBag.terca,
+            quarta = ViewBag.quarta,
+            quinta = ViewBag.quinta,
+            sexta = ViewBag.sexta,
+            sabado = ViewBag.sabado,
+            domingo = ViewBag.domingo
+        }, FormMethod.Post))
+        {
+            @Html.ValidationSummary(true)
+            <div class="row philosophy">
+
+                <div class="col-sm-6 philosophy-item text-center" style="margin-top: 25px">
+                    <p><b>Initial date</b></p>
+                    <input type="date" name="initialDate" value=@ViewBag.initialDate required />
+                </div>
+                <div class="col-sm-6 philosophy-item text-center" style="margin-top: 25px">
+                    <p><b>Final date</b></p>
+                    <input type="date" name="finalDate" value=@ViewBag.finalDate required />
+                </div>
+
+                <div class="col-sm-6 philosophy-item text-center" style="margin-top: 25px">
+                    <p><b>First Day</b></p>
+                    <input type="text" name="segunda" value=@ViewBag.segunda />
+                </div>
+                <div class="col-sm-6 philosophy-item text-center" style="margin-top: 25px">
+                    <p><b>Second Day</b></p>
+                    <input type="text" name="terca" value=@ViewBag.terca />
+                </div>
+                <div class="col-sm-6 philosophy-item text-center" style="margin-top: 50px">
+                    <p><b>Third Day</b></p>
+                    <input type="text" name="quarta" value=@ViewBag.quarta />
+                </div>
+                <div class="col-sm-6 philosophy-item text-center" style="margin-top: 50px">
+                    <p><b>Fourth Day</b></p>
+                    <input type="text" name="quinta" value=@ViewBag.quinta />
+                </div>
+                <div class="col-sm-6 philosophy-item text-center" style="margin-top: 50px">
+                    <p><b>Fifth Day</b></p>
+                    <input type="text" name="sexta" value=@ViewBag.sexta />
+                </div>
+                <div class="col-sm-6 philosophy-item text-center" style="margin-top: 50px">
+                    <p><b>Sixth Say</b></p>
+                    <input type="text" name="sabado" value=@ViewBag.sabado />
+                </div>
+                <div class="col-sm-6 philosophy-item text-center" style="margin-top: 50px">
+                    <p><b>Seventh Day</b></p>
+                    <input type="text" name="domingo" value=@ViewBag.domingo />
+                </div>
+                <div>
+                    <input style="margin-left:-45px" type="submit" value="Submit" class="btn btn-default btn-primary" />
+                </div>
+            </div>
+        }
+    </div>
+</section>
+
+<p align="right" style="margin-top: 30px"><a asp-controller="UserView" asp-action="getOpcoes">Back</a></p>
